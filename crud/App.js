@@ -26,6 +26,11 @@ const NewSaleScreen = ({ navigation }) => {
     { name: "Phone", price: 500 },
     { name: "Tablet", price: 300 },
     { name: "Headphones", price: 150 },
+    { name: "bones", price: 70 },
+    { name: "oppo", price: 180 },
+    { name: "king", price: 90 },
+    { name: "Heat", price: 10 },
+    { name: "Headsock", price: 100 },
   ]);
   const [showMenu, setShowMenu] = useState(false);
 
